@@ -10,11 +10,7 @@ Users can use this application by installing the necessary dependencies and runn
 
 ## Video Walkthrough
 
-
-
-## Application Screenshot
-
-
+https://watch.screencastify.com/v/511NMkGhl6whSQ2vkA5L
 
 ## Credits
 
